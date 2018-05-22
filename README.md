@@ -1,5 +1,5 @@
 # Fluffy - The Angular/Bootstrap framework
-A JavaScript framework based on Bootstrap and Angular.
+A JavaScript/CSS framework based on Bootstrap and Angular.
 
 FYI, this was created instead of doing homework, so there will be bugs!
 ## Installing
